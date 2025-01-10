@@ -1,0 +1,135 @@
+BasicInfo:
+  FirstName: Алексей
+  LastName: Чузаев
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +7 927 875 57 79
+    - Icon: fas fa-envelope
+      Info: kraehg@yandex.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://aleks-poperge.com" target="_blank">aleks-poperge.com</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Россия
+
+Profile: "Православный русский мужчина, 19-и лет. Много думаю, мало делаю. Но если наступит дедлайн — горы сверну"
+
+Experience:
+  - Employer: Super Cool Company
+    Place: Оксфорд
+    Positions:
+      - Title: Программист
+        Date: Янв 2020 - Настоящее время
+        Details:
+          - Разработка программного обеспечения с использованием Python и Django
+          - Работа с фреймворками и библиотеками для веб-разработки
+          - Применение принципов ООП и Agile
+          - Тестирование и поддержка кода
+          - Создание высококачественного кода в соответствии с требованиями
+          - Управление проектами с использованием Jira и Git
+        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+      - Title: Тестировщик программного обеспечения
+        Date: Мар 2019 - Янв 2020
+        Details:
+          - Тестирование программного обеспечения с использованием Python и Selenium
+          - Разработка автотестов
+          - Работа в Agile-команде
+        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
+  - Employer: Другая суперкомпания
+    Place: Лиссабон
+    Positions:
+      - Title: Специалист по флуоресцентной цитометрии
+        Date: Янв 2018 - Мар 2019
+        Details:
+          - Обработка данных с использованием Python и C#
+          - Разработка интерфейсов на HTML и CSS
+          - Разработка приложений с использованием Unity
+        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+  - Employer: Институт нейронной инженерии
+    Place: Грац
+    Class: "experience__extra_padding"
+    Positions:
+      - Title: Стажер по исследованию магистрской диссертации
+        Date: Окт 2016 - Июн 2017
+        Details:
+          -
+          - Разработка и анализ данных с использованием MATLAB
+          - Проектирование экспериментов и парадигм
+        Badges: ['Python', 'MATLAB', 'Обработка данных', 'Проектирование парадигм']
+
+Education:
+  - Course: Бакалавр и магистр в области биомедицинской инженерии и биофизики
+    Place: Университет Лиссабона
+    Date: Сен 2012 - Ноя 2017
+    Details: Специализация на анализе данных
+
+References:
+  - Name: Человек Один
+    Relation: Коллега в Super Cool Company
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +44 123 456 790
+    - Icon: fas fa-envelope
+      Info: contact@person-one.com
+    - Icon: fas fa-map-marker-alt
+      Info: Мельбурн, Австралия
+  - Name: Человек Два
+    Relation: Руководитель в Super Cool Company
+    Contacts:
+    - Icon: fas fa-phone
+      Info: +44 123 456 791
+    - Icon: fas fa-envelope
+      Info: contact@person-two.com
+    - Icon: fas fa-map-marker-alt
+      Info: Сидней, Австралия
+
+Skills:
+  - Family: Программирование
+    Items:
+      - Python
+      - HTML (включая Jinja)
+      - Javascript
+      - CSS
+      - SASS
+      - SQL
+      - C#
+      - Bash
+      - MATLAB
+  - Family: Фреймворки
+    Items:
+      - Django
+      - Flask
+      - Hugo
+      - React
+  - Family: Инструменты разработчика
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - AWS
+  - Family: Прочее
+    Items:
+      - Adobe Tools
+      - LaTeX
+
+Languages:
+  - Name: Португальский
+    Level: Родной
+  - Name: Английский
+    Level: C2
+  - Name: Испанский
+    Level: B1
+  - Name: Немецкий
+    Level: B1
+
+Diplomas:
+  - Сертификат тестировщика ISTQB (2019)
+  - Кембриджский сертификат английского CAE (2009)
+
+Interests:
+  - Боулдеринг
+  - Кулинария
+  - Виндсёрфинг
+  - Босса-нова
+  - Дизайн
+  - Языки
